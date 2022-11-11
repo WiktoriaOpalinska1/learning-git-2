@@ -1,0 +1,7 @@
+npm install --save-dev browser-sync
+
+npm exec html-validate index.html
+
+"rules": {
+        "find-an-error": "error"
+    }
